@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gradient_orange.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_selector_btn_back.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\weixin_selector_btn_back.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_grouplist_item_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\pop_grouplist_item_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pv.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image_disabled.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_btn_bg_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_btn_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_like.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_list_item_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_chatto_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\weixin_chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_submit_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_submit_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_statusbar_icon.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_statusbar_icon.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_point_normal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_point_normal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_arrow_right.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\point_background.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\point_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gray_frame.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_gray_frame.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_input_bar.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_point_new.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_point_new.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_see_list_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_chatfrom_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\weixin_chatfrom_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_item_point_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\delete_item_point_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_search_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_at_search_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_grouplist_fixed_item_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\pop_grouplist_fixed_item_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_conversation_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_conversation_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gradient_green.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_gradient_green.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_write_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_bar_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_login.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_user_bubble.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_user_bubble.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_write_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item_pressed.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\rootblock_icon_set_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\rootblock_icon_set_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_label_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_cyan.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_twitter_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_slate_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_slate_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_logo.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_logo.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_see_list_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_pay_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\bt_pay_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\point_enable.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\point_enable.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_item_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_red.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\rootblock_icon_download_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\rootblock_icon_download_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_tick_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_see_list_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_title_button2.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\pop_title_button2.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_holder_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\delete_holder_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ucenter_hbg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bt.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\point_normal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\point_normal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\sorlistview_search_bar_edit_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\sorlistview_search_bar_edit_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tab_winter_ac.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\icon_tab_winter_ac.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_top_banner.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_top_banner.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_back_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_bt.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_comment_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_grouplist_title_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\pop_grouplist_title_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\rootblock_icon_add_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\rootblock_icon_add_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_google_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_reply_right_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_reply_right_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_yellow.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\sortlistview_sidebar_background.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\sortlistview_sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_list_item_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\delete_list_item_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\rootblock_icon_clear_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\rootblock_icon_clear_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_reply_left_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_reply_left_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_title_button.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\pop_title_button.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_comment_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_fb_write_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_hollow_grey.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_select_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable\\umeng_socialize_bind_select_bg.png"
+    }
+]

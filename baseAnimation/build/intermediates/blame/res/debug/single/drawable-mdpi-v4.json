@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grouplist_item_bg_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\grouplist_item_bg_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_wordpress.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_wordpress.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_new_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_new_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\group_bg.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\group_bg.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_horizontal_arabia.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progress_horizontal_arabia.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_indeterminate_horizontal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_new_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_new_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_tray_handle_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_tray_handle_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bg.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\search_bg.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_tray_handle_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_tray_handle_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_myspace.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_myspace.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progressbar_indeter3.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progressbar_indeter3.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\group_divider.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\group_divider.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progressbar_back.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progressbar_back.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_facebook.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_facebook.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progressbar_indeter2.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progressbar_indeter2.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_color_horizontal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progress_color_horizontal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progressbar_full.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progressbar_full.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grouplist_title_bg_sel.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\grouplist_title_bg_sel.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_linkedin.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_linkedin.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_scrollview_plugin_arrow_left.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_scrollview_plugin_arrow_left.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_scrollview_plugin_unselected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\btn_scrollview_plugin_unselected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_reload_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_reload_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_tray_handle_pressed.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_tray_handle_pressed.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_google.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_google.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grouplist_item_bg_sel.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\grouplist_item_bg_sel.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_handle.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_handle.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_gradient_orange.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_button_selected.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_button_selected.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_reload_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_reload_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\BaseAnimation\\bAnim_FilpLibrary\\unspecified\\res\\drawable-mdpi-v4\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_custom_circleimage_twitter.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_custom_circleimage_twitter.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progressbar_indeter1.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progressbar_indeter1.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidingdrawer_cmd_power.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\slidingdrawer_cmd_power.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_button_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\title_button_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_scrollview_plugin_arrow_right.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\icon_scrollview_plugin_arrow_right.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_scrollview_pink.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\bg_scrollview_pink.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_horizontal.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\drawable-mdpi\\progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_normal.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    }
+]

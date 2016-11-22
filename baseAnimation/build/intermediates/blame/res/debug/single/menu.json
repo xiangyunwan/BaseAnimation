@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\optionsmenu.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\optionsmenu.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\ribbon_menu.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\ribbon_menu.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\menu_expandablelistitem.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\menu_expandablelistitem.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\activity_listview_delete_left_menu.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\activity_listview_delete_left_menu.xml"
+    },
+    {
+        "merged": "D:\\github-source\\BaseAnimation\\baseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\github-source\\BaseAnimation\\baseAnimation\\src\\main\\res\\menu\\main.xml"
+    }
+]

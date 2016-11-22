@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\jpush-sdk-release1.5.6.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="817cdc694d4820b9cedab7f5b21c7dbe0fdbcf1f">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\jpush-sdk-release1.5.6_3cbde4fd0ad807ae54d8962feedfb74241acabde.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="48959cea0169c9c7f4b3822fcd7b168cdba3994b">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_bee0648370effd9e01c81781c78c832b98f36ec8.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\exploded-aar\BaseAnimation\bAnim_FilpLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="7ccff56c1e1f07363fab782d7e00910bb901126f">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\BaseAnimation-bAnim_FilpLibrary-unspecified_6feb9847ff594113be3ddb6d89cdcb64b8f719cd.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_ff1e27f0f22d87ff0e687e82d646644d118d946d.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\RootTools.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\RootTools_2a9f6a39cfc70c9d26b672a761e38fe647416750.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\exploded-aar\BaseAnimation\bAnim_ListViewLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75e546d49fa2ef92596e371f46057d90193098f3">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\BaseAnimation-bAnim_ListViewLibrary-unspecified_f54101ca23508fc142cf1d48b9b071ac9370f9f4.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="914dcfbf5e1184bbfa58f4aceb1559f6b8991636">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\umeng_social_sdk_bdb0ee446a871848ee2b20a0190336215b5d516a.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_80c746e5fac2453f3ffc07aae93ec570aa4b2132.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\httpmime-4.1.3_20aff5ea2a1068519fcfe6a3246852b2025e8940.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\support-v4-19.1.0_d078e6a59736c23ae6ea3898cc40d3e14c3d1aed.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_f9d55c6e3b42ae464c7dfd76cdb0e64e5246f41b.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_067e15bbb2c63506de62952d253e56714a5e7e6f.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SDK.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SDK_198e2fc913cfdc73eb7ed4cf5c95d7a179aba200.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\umeng_sdk.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="653c94cb79c8cc409b308c49e21581fe07292ce2">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\umeng_sdk_dd560d1a5ec363c3c534167f4a35476e733bf234.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\exploded-aar\BaseAnimation\bAnim_ListViewLibrary\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="cb9ddcb06ea6fbf626441dbc24cfdecf71f0b6d3">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_85e8b834198c896bfafce0a6c2a4326fb998a1d2.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\Aseo.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d377e1e758c56c64528c446b3baa19d76f3af4db">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\Aseo_b2fb28bf12455208fd09145697d07275f82147ac.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_e5ff6d7151c616e29ab4517dbc8310228a8e967e.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\commons-jexl-2.1.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6ecc181debade00230aa1e17666c4ea0371beaaa">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\commons-jexl-2.1.1_e22ae6a525f28b2453b2c2de4783a5d612d1362b.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\exploded-aar\BaseAnimation\bAnim_ListViewLibrary\unspecified\jars\libs\stickylistheaders_lib.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="2ef67f845faaad10d6481072958feab280e7c0e4">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\stickylistheaders_lib_201766553f045f3d85e7ebbc0a1890f1784aa50e.jar" />
+    </item>
+    <item
+        jar="D:\github-source\BaseAnimation\baseAnimation\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="D:\github-source\BaseAnimation\baseAnimation\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_14c492b3665e6a656018a7574f77897b153ba8f1.jar" />
+    </item>
+
+</items>

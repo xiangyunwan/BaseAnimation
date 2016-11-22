@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseAnimation.iml" filepath="$PROJECT_DIR$/BaseAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bAnim_FilpLibrary/bAnim_FilpLibrary.iml" filepath="$PROJECT_DIR$/bAnim_FilpLibrary/bAnim_FilpLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bAnim_ListViewLibrary/bAnim_ListViewLibrary.iml" filepath="$PROJECT_DIR$/bAnim_ListViewLibrary/bAnim_ListViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseAnimation/baseAnimation.iml" filepath="$PROJECT_DIR$/baseAnimation/baseAnimation.iml" />
+    </modules>
+  </component>
+</project>
